@@ -2,6 +2,8 @@
 
 Moon Cram is a CLI testing toolkit designed to rigorously test terminal programs. It is inspired by [Cram](https://github.com/brodie/cram) and focuses on providing a straightforward way to validate CLI behavior.
 
+This project is a fork of [facebookincubator/scrut](https://github.com/facebookincubator/scrut).
+
 # Why though?
 
 Testing command-line interfaces (CLIs) can be challenging. While unit tests are essential for verifying business logic, they often fall short in testing interactions with the environment, such as command line inputs, environment variables, and external APIs.
