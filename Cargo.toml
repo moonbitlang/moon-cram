@@ -2,7 +2,7 @@
 
 [package]
 name = "mooncram"
-version = "0.4.3"
+version = "0.0.1"
 edition = "2024"
 rust-version = "1.90"
 description = "A simple and powerful test framework for CLI applications"
