@@ -1,0 +1,11 @@
+---
+source: src/generators/generator.rs
+expression: result
+---
+# This is a test
+
+```mooncram
+$ the command
+an expectation
+```
+
